@@ -18,4 +18,3 @@ obj1 = Employee("Green", 20000, "GM")
 obj1._name = "Mary"
 obj1.__salary = 120000
 obj1.__department = "CEO"
-
