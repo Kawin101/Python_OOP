@@ -35,3 +35,6 @@ class Employee:
 # Object
 obj1 = Employee("Green", 20000, "GM")
 obj1._showData()
+
+obj2 = Employee("Sleep now!", 99999, "Gamer")
+obj2._showData()
